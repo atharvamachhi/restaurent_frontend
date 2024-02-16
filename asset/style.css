@@ -1,0 +1,232 @@
+.sticky_top
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.orange_color
+{
+    color: #FEA116; 
+}
+
+.blue_background
+{
+    background-color: #0F172B;
+}
+
+.white_color
+{
+    color: white;
+}
+
+.blue_color
+{
+    color: #0F172B;
+}
+
+.background_orange
+{
+    background-color: #FEA116;
+}
+
+#image_bg 
+{
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(images/bg_image.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.display-3 {
+    font-size: calc(1.525rem + 3.3vw);
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.btn
+{
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.card_style
+{
+    box-shadow: 0 0 45px rgba(6, 6, 6, 0.08);
+}
+
+.card_round
+{
+    border-radius: 3px;
+}
+
+#hover:hover i,
+#hover:hover
+{
+    background-color: #FEA116;
+    color: white;
+    transition: 0.3s;
+}
+
+.border_orange
+{
+    border-color: #FEA116;
+    border-width: 2px;
+}
+
+.text-start 
+{
+    text-align: left;
+}
+
+.text-end
+{
+    text-align: right;
+}
+
+.about_font 
+{
+    font-family: 'Pacifico';
+}
+
+.rcorners
+{
+    background: #FEA116;
+    width: 5px;
+    height: 80px;
+}
+
+.ps-4 
+{
+    padding-left: 1.5rem ;
+}
+
+.menu_font
+{
+    font-family: 'Nunito Sans';
+}
+
+.border-bottom 
+{
+    border-bottom: 1px solid #dee2e6;
+}
+
+.fst-italic 
+{
+    font-style: italic !important;
+}
+
+.reserve_table_font
+{
+    font-family: 'Pacifico';
+}
+
+.reserve_border
+{
+    border-radius: 100px;
+    border-color: blue;
+    width: 20px;
+}
+
+.img_radius
+{
+    border-radius: 50%;
+}
+
+.team-item 
+{
+    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    height: calc(100% - 38px);
+    transition: .5s;
+}
+
+.grey_color
+{
+    color: #dee2e6;
+}
+
+/* Slider */
+
+.carousel-inner
+{
+    width: 100%;
+    height: 100%;
+}
+
+.light_blue
+{
+    background-color: #d7e8f8;
+}
+
+#team_hover:hover
+{
+    display: block;
+}
+
+.overflow-hidden 
+{
+    overflow: hidden;
+}
+
+#nav_hover:hover
+{
+    color: #FEA116;
+}
+
+.nav_hover:hover
+{
+    color: #FEA116;
+}
+
+.navbar-nav .active
+{
+    color: #FEA116;
+}
+
+.font_nunito
+{
+    
+    font-weight: 800;
+    line-height: 1.2;
+    font-family: 'Nunito';
+}
+
+.blue_color_icon:hover
+{
+    color: #1DA1F2;
+}
+
+.blue_facebook_color_icon:hover
+{
+    color: #4267B2;
+}
+
+.red_color_icon:hover
+{
+    color: #FF0000;
+}
+
+.linkedin_color_icon:hover
+{
+    color: #0077b5;
+}
+
+.btn_icon 
+{
+    border-radius: 38px 38px 0 0;
+}
+
+.img-card:hover{
+    .team_icon{
+        display: block;
+    }
+}
+
+.team_icon
+{
+    display: none;
+}
+
+
+
